@@ -5,12 +5,12 @@ I developed a comprehensice project in Excel, creating dashboards and tables to 
 #Dashboard
 ![Screenshot](https://github.com/user-attachments/assets/90cc7851-fb42-460b-9dbb-6ee4f8e8c593)
 
-# #KPI REQUIREMENT
+# KPI REQUIREMENT
 1.Total sales: the overall revenue generated from all items sold.
 2.Average sales: the average revenue per sale.
 3.Number of items: the total count of different items sold.
 4.Average rating: the average customer rating for items sold.
-## CHART REQUIREMENTS
+# CHART REQUIREMENTS
 1.Total sales by fat content:
 Objective: Analyse the impact of fat content on total sales.
 Additional KPI Metrices: Assess how other KPIs (Average sales, no of items, average rating) vary with fat content.
